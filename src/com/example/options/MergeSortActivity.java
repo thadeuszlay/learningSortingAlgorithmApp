@@ -1,8 +1,6 @@
 package com.example.options;
 
 import com.example.appsearchalogrithm.R;
-import com.example.appsearchalogrithm.R.layout;
-import com.example.appsearchalogrithm.R.menu;
 
 import android.os.Bundle;
 import android.app.Activity;
